@@ -1,0 +1,9 @@
+resources:
+  - ELK/elasticsearch.yaml
+  - ELK/kibana.yaml
+  - ELK/filebeat-RBAC.yaml
+  - ELK/filebeat.yaml
+  - ELK/filebeat-all.yaml
+# - mongo/mongodb-configmap.yaml
+#  - mongo/mongodb-express.yaml
+#  - mongo/mongodb.yaml
